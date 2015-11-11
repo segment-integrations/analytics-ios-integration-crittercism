@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Segment-Crittercism_Example', :exclusive => true do
+  pod "Segment-Crittercism", :path => "../"
+end
+
+target 'Segment-Crittercism_Tests', :exclusive => true do
+  pod "Segment-Crittercism", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end
