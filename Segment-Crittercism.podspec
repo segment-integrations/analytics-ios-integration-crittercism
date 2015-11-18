@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Segment-Crittercism"
-  s.version          = "5.4.5-alpha"
+  s.version          = "1.0.0-alpha"
   s.summary          = "Crittercism Integration for Segment's analytics-ios library."
 
   s.description      = <<-DESC
