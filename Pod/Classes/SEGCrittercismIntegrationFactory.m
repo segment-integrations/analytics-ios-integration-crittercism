@@ -4,10 +4,10 @@
 
 @implementation SEGCrittercismIntegrationFactory
 
-+ (id)instance
++ (instancetype)instance
 {
     static dispatch_once_t once;
-    static SEGCrittercismIntegration *sharedInstance;
+    static SEGCrittercismIntegrationFactory *sharedInstance;
     dispatch_once(&once, ^{
         sharedInstance = [[self alloc] init];
     });
