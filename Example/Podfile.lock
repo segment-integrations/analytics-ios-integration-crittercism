@@ -2,7 +2,7 @@ PODS:
   - Analytics (3.0.0)
   - CrittercismSDK (5.4.5)
   - Expecta (1.0.5)
-  - Segment-Crittercism (1.0.0-alpha):
+  - Segment-Crittercism (1.0.0):
     - Analytics (~> 3.0.0)
     - CrittercismSDK (~> 5.4.5)
   - Specta (1.0.5)
@@ -20,7 +20,9 @@ SPEC CHECKSUMS:
   Analytics: 3ebd9eee7aa18bbf7d6418f2290b0bbf694144d5
   CrittercismSDK: ac7fd22cd81d63a6398febc9f97427dca54edfc1
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
-  Segment-Crittercism: 308d6aad4aa0ddbc35c072a13bce9892c0f8477b
+  Segment-Crittercism: ab5823c45fa6c7c3ab5cc665d1b187c8f398b7e4
   Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: 0a6da97583cf9e940a39b2105f03699e167d9c7a
+
+COCOAPODS: 1.0.1
