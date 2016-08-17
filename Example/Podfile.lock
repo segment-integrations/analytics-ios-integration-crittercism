@@ -1,10 +1,10 @@
 PODS:
-  - Analytics (3.0.0)
-  - CrittercismSDK (5.4.5)
+  - Analytics (3.3.0)
+  - CrittercismSDK (5.6.2)
   - Expecta (1.0.5)
   - Segment-Crittercism (1.0.0):
     - Analytics (~> 3.0)
-    - CrittercismSDK (~> 5.4)
+    - CrittercismSDK (~> 5.6)
   - Specta (1.0.5)
 
 DEPENDENCIES:
@@ -17,10 +17,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Analytics: 3ebd9eee7aa18bbf7d6418f2290b0bbf694144d5
-  CrittercismSDK: ac7fd22cd81d63a6398febc9f97427dca54edfc1
+  Analytics: be3d952b8b0f21679e25af3b9dfbbab89597e897
+  CrittercismSDK: 0844a458a94e80862a9e834f2e0ecdbf104015b2
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
-  Segment-Crittercism: 34709d6dc815b0b162fd44893db8c1b1b4e7a9f3
+  Segment-Crittercism: 1169a9c9ca49c029bdbd0cec07b1ec6a56135d2f
   Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
 
 PODFILE CHECKSUM: 0a6da97583cf9e940a39b2105f03699e167d9c7a

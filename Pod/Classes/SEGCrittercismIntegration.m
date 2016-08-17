@@ -1,5 +1,5 @@
 #import "SEGCrittercismIntegration.h"
-#import <CrittercismSDK/Crittercism.h>
+#import <Crittercism/Crittercism.h>
 #import <Analytics/SEGAnalyticsUtils.h>
 #import <Analytics/SEGAnalytics.h>
 
