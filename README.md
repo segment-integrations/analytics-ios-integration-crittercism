@@ -1,5 +1,6 @@
 # Analytics
 
+[![CircleCI](https://circleci.com/gh/segment-integrations/analytics-ios-integration-crittercism.svg?style=svg)](https://circleci.com/gh/segment-integrations/analytics-ios-integration-crittercism)
 [![Version](https://img.shields.io/cocoapods/v/Segment-Crittercism.svg?style=flat)](http://cocoapods.org/pods/Segment-Crittercism)
 [![License](https://img.shields.io/cocoapods/l/Segment-Crittercism.svg?style=flat)](http://cocoapods.org/pods/Segment-Crittercism)
 
