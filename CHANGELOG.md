@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+Version 1.1.2 *(8th October, 2020)*
+-------------------------------------------
+
+ * Update SEGAnalytics import to support new namespacing introduced in `analytics-ios` v4.x
+
 Version 1.1.0 *(17th August, 2016)*
 -------------------------------------------
 *(Supports analytics-ios 3.0.+ and Crittercism 5.6+)*
